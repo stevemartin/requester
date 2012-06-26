@@ -3,3 +3,12 @@ In the parent folder of your git repo:
 COMMITER="stevemartin" gnuplot ~/Projects/unix_hackery/pull_request_graph.p
 
 COMMITER being your git username
+
+NOTE: this code requires gnuplot, if you're on a mac:
+brew install gnuplot  
+
+... and all the fun that comes with that ....
+
+if you're on linux:
+
+www.google.com
