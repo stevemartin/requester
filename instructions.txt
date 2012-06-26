@@ -1,0 +1,5 @@
+In the parent folder of your git repo:
+
+COMMITER="stevemartin" gnuplot ~/Projects/unix_hackery/pull_request_graph.p
+
+COMMITER being your git username
